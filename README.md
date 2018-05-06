@@ -1,4 +1,4 @@
-# iDance-ExtendScript
+# OpenPose to After Effects Converter
 
 Interprets OpenPose data into After Effects shape layers.
 
